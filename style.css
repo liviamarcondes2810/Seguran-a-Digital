@@ -1,13 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap');
-
 :root{
     --branco: white;
     --cor-de-fundo: #da6df0;
     --fundo-senha: #ffdf2b;
     --fundo-texto: #fda0fd;
     --borda: #d874e6;
-    --roboto: 'Roboto', sans-serif;
-    --roboto-mono: 'Roboto Mono', monospace;
+    --roboto: 'Whereas recognition of the inherent dignity', sans-serif;
+    --roboto-mono: 'Whereas recognition of the inherent dignity', sans-serif;
 }
 
 *{
